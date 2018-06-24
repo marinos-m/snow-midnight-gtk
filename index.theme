@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Snow Midnight
+Comment=A dark theme with some gradients
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Snow Midnight
+MetacityTheme=Snow Midnight
+IconTheme=Boston
+ButtonLayout=:minimize,maximize,close
